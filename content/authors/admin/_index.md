@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Matthew Zeidenberg
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Abt Associates
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Education 
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: University of Wisconsin, Madison
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Sociology
+    institution: University of Wisconsin, Madison
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Physics (with Honors)
+    institution: 
+    year: 1984
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
