@@ -18,7 +18,7 @@ subtitle = ""
   name = "HTML"
 
 [[feature]]
-  name = "Javacsript"
+  name = "JavaScript"
 
 [[feature]]
   name = "LaTeX"
@@ -34,6 +34,9 @@ subtitle = ""
 
 [[feature]]
   name = "Python"
+
+[[feature]]
+  name = "Project Management"
 
 [[feature]]
   name = "R"

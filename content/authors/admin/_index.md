@@ -15,7 +15,7 @@ role: Data Scientist, Sociologist, and Computer Scientist
 # Organizations/Affiliations
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Education 
@@ -32,7 +32,7 @@ education:
   - course: PhD in Sociology
     institution: University of Wisconsin, Madison
   - course: BA in Physics (with Honors)
-    institution: 
+    institution: Harvard University 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,9 +47,9 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=h-mgZnwAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-   icon: cv
-   icon_pack: ai
-   link: files/zeidenberg_cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: 'files/Zeidenberg_CV.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,16 +61,12 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm Matt Zeidenberg. Welcome to my personal web site. 
+Hi! Welcome to my personal web site. 
 I live in Brooklyn, New York with my wife and daughter. I was born in 
 New York City and grew up in Teaneck, New Jersey.
 
-I work at Abt Associates, where I research workforce development and education, 
-primarily for federal agencies and private foundations. Previously I worked 
-at the Community College Research Center (CCRC) at Columbia University and the 
-Center on Wisconsin Strategy (COWS) at the University of Wisconsin.
+I am a scientist, scholar, and writer whose career has focussed on 
+research in the areas of labor, education, artificial intelligence, and machine
+learning.
 
-I also taught introductory computer programming at the University of 
-Wisconsin and authored a book on artificial neural networks in 
-artificial intelligence.
 
