@@ -65,7 +65,7 @@ Hi! Welcome to my personal web site.
 I live in Brooklyn, New York with my wife and daughter. I was born in 
 New York City and grew up in Teaneck, New Jersey.
 
-I am a scientist, scholar, and writer whose career has focussed on 
+I am a scientist, scholar, and writer whose career has focused on 
 research in the areas of labor, education, artificial intelligence, and machine
 learning.
 
