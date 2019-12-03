@@ -10,7 +10,6 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist, Sociologist, and Computer Scientist
 
 # Organizations/Affiliations
 
