@@ -68,4 +68,17 @@ I am a scientist, scholar, and writer whose career has focused on
 research in the areas of labor, education, artificial intelligence, and machine
 learning.
 
+I am familiar with a wide range of machine learning algorithms, and I have
+extensive experience with large data sets, statistical analysis 
+including regression analysis and propensity score matching, cluster analysis,
+database systems, and text processing.I am the a uthor of a book on 
+neural networks.
 
+I have experience with a wide range of specialized and general purpose 
+programming languages, including Python (and Scikit-Learn), R, Stata, 
+SAS, Perl, and Lisp. Strong knowledge and experience with the design, 
+conduct, and analysis of experiments.
+
+I am the author or co-author of many publications, including 
+peer-reviewed articles that apply machine learning and data science 
+to educational and labor market data.

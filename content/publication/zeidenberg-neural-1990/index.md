@@ -6,6 +6,6 @@ authors: ["Matthew Zeidenberg"]
 publication_types: ["5"]
 abstract: ""
 featured: false
-publication: Ellis Horwood
+publication: "Chichester, UK: Ellis Horwood (book)"
 ---
 
