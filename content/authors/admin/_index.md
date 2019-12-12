@@ -71,7 +71,7 @@ learning.
 I am familiar with a wide range of machine learning algorithms, and I have
 extensive experience with large data sets, statistical analysis 
 including regression analysis and propensity score matching, cluster analysis,
-database systems, and text processing.I am the author of a book on 
+database systems, and text processing. I am the author of a book on 
 neural networks.
 
 I have experience with a wide range of specialized and general purpose 
