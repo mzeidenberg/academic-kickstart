@@ -76,7 +76,7 @@ neural networks.
 
 I have experience with a wide range of specialized and general purpose 
 programming languages, including Python (and Scikit-Learn), R, Stata, 
-SAS, Perl, and Lisp. Strong knowledge and experience with the design, 
+SAS, Perl, and Lisp. I have strong knowledge of and experience with the design, 
 conduct, and analysis of experiments.
 
 I am the author or co-author of many publications, including 
