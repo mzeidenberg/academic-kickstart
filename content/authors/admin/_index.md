@@ -69,17 +69,38 @@ I am a scientist, scholar, and writer whose career has focused on
 research in the areas of labor, education, artificial intelligence, and machine
 learning.
 
-I am familiar with a wide range of machine learning algorithms, and I have
-extensive experience with large data sets, statistical analysis 
+I am familiar with a wide range of statistical and machine learning algorithms, 
+and I have extensive experience with large data sets, statistical analysis 
 including regression analysis and propensity score matching, cluster analysis,
 database systems, and text processing. I am the author of a book on 
 neural networks.
 
-I have experience with a wide range of specialized and general purpose 
+In my social science work, I focus on research and program evaluation in workforce development a
+nd training, labor markets, income security, and higher education. I am currently working on a 
+study for the U.S. Department of Labor (DOL) that focuses on analyzing the career trajectories 
+of workers to see how these trajectories can inform the design of career pathway programs. 
+
+I have also worked on site impact studies for the Pathways for Advancing Careers and Education 
+(PACE) randomized controlled trial (RCT) evaluation of career pathways for the U.S. 
+Department of Health and Human Services (HHS). I was on the analysis team for the Green Jobs 
+and Health Care evaluation, which also looked at career pathways programs. He is 
+currently working on the Career Pathways Intermediate Outcomes (CPIO) Study, 
+which is HHS’s follow-on study for PACE and the related Health Profession Opportunity Grants 
+(HPOG) study, as well as its follow-up study (HPOG 2), which arealso sponsored by HHS, 
+and is applying techniques from machine learning to that study. 
+
+I was a principal investigator for Abt’s RCT for the Robin Hood College Success Prize, 
+which measured the impacts of behavioral interventions delivered through smartphone apps 
+on students at two community colleges. I have co-authored papers on the I-BEST program in 
+Washington State, on worker mobility over the course of the career 
+(using social sequence analysis), on mobility within various industries 
+in the service sector, and on progression in college. I have worked heavily 
+with administrative data on educational and labor market outcomes, as well 
+as with survey data. I have also published peer-reviewed articles that apply 
+machine learning and data science to educational and labor market data.
+
+On the technical side, I have experience with a wide range of specialized and general purpose 
 programming languages, including Python (and Scikit-Learn), R, Stata, 
 SAS, Perl, and Lisp. I have strong knowledge of and experience with the design, 
 conduct, and analysis of experiments.
 
-I am the author or co-author of many publications, including 
-peer-reviewed articles that apply machine learning and data science 
-to educational and labor market data.
