@@ -19,6 +19,7 @@ bio:
 interests:
 - Education 
 - Workforce Development 
+- Social Experiments
 - Machine Learning
 - Artificial Intelligence
 - Computational Linguistics
