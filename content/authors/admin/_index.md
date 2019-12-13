@@ -75,8 +75,8 @@ including regression analysis and propensity score matching, cluster analysis,
 database systems, and text processing. I am the author of a book on 
 neural networks.
 
-In my social science work, I focus on research and program evaluation in workforce development a
-nd training, labor markets, income security, and higher education. I am currently working on a 
+In my social science work, I focus on research and program evaluation in workforce development and 
+training, labor markets, income security, and higher education. I am currently working on a 
 study for the U.S. Department of Labor (DOL) that focuses on analyzing the career trajectories 
 of workers to see how these trajectories can inform the design of career pathway programs. 
 
@@ -104,3 +104,6 @@ programming languages, including Python (and Scikit-Learn), R, Stata,
 SAS, Perl, and Lisp. I have strong knowledge of and experience with the design, 
 conduct, and analysis of experiments.
 
+I have six years of experience teaching at the college level, having served for all of that 
+time as the primary instructor for computer programming classes. I also taught an artificial
+intelligence class and assisted in a class on natural language processing.
