@@ -76,7 +76,7 @@ database systems, and text processing. I am the author of a book on
 neural networks.
 
 In my social science work, I focus on research and program evaluation in workforce development and 
-training, labor markets, income security, and higher education. I am currently working on a 
+training, labor markets, income security, and higher education. At Abt Associates, I am currently working on a 
 study for the U.S. Department of Labor (DOL) that focuses on analyzing the career trajectories 
 of workers to see how these trajectories can inform the design of career pathway programs. 
 
