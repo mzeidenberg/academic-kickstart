@@ -63,7 +63,7 @@ user_groups:
 
 Hi! Welcome to my personal web site. 
 I live in Brooklyn, New York with my wife and daughter. I was born in 
-aNew York City and grew up in Teaneck, New Jersey. I am a scientist, scholar, 
+New York City and grew up in Teaneck, New Jersey. I am a scientist, scholar, 
 and writer whose career has focused on research in the areas of labor, 
 education, artificial intelligence, and machine learning.
 
@@ -89,7 +89,7 @@ at career pathways programs. I am currently working on the Career
 Pathways Intermediate Outcomes (CPIO) Study, which is HHS’s follow-on 
 study for PACE and the related Health Profession Opportunity Grants 
 (HPOG) study, as well as its follow-up study (HPOG 2), which are also 
-sponsored by HHS, and am applying techniques from machine learning 
+sponsored by HHS, and is applying techniques from machine learning 
 to that study. 
 
 I was a principal investigator for Abt’s RCT for the Robin Hood College Success Prize, 
