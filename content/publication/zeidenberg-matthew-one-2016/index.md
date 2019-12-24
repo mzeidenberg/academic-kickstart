@@ -6,6 +6,7 @@ authors: ["Matthew Zeidenberg", "Eric Friedman"]
 publication_types: ["0"]
 abstract: ""
 featured: false
-publication: "Community for National and Community Service Research Summit"
+publication: "Corporation for National and Community Service Research Summit"
+
 ---
 
