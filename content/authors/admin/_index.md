@@ -61,7 +61,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! Welcome to my personal web site. 
+Hi! Thanks for visiting my personal web site. 
 I live in Brooklyn, New York with my wife and daughter. I was born in New York City and grew up in Teaneck, New Jersey. I am a scientist, scholar, and writer whose career has focused on research in the areas of labor, education, artificial intelligence, and machine learning.
 
 I am familiar with a wide range of statistical and machine learning algorithms, and I have extensive experience with large data sets, statistical analysis 
@@ -72,7 +72,7 @@ neural networks.
 In my social science work, I focus on research and program evaluation in 
 workforce development and training, labor markets, income security, and 
 higher education. At Abt Associates, I am currently working on a study 
-for the U.S. Department of Labor (DOL) that focuses on analyzing the 
+for the U.S. Department of Labor that focuses on analyzing the 
 career trajectories of workers to see how these trajectories 
 can inform the design of career pathway programs. 
 
@@ -86,7 +86,7 @@ Pathways Intermediate Outcomes (CPIO) Study, which is HHS’s follow-on
 study for PACE and the related Health Profession Opportunity Grants 
 (HPOG) study, as well as its follow-up study (HPOG 2), which are also 
 sponsored by HHS. I am applying techniques from machine learning 
-to processing survey responses from both studies.
+to processing survey responses collected in these studies.
 
 I was a principal investigator for Abt's RCT for the Robin Hood College 
 Success Prize, which measured the impacts of behavioral interventions 
