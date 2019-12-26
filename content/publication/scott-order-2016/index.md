@@ -1,5 +1,5 @@
 ---
-title: "Order or chaos? Understanding career mobility using categorical clustering and information theory"
+title: "Order or Chaos? Understanding Career Mobility Using Categorical Clustering and Information Theory"
 date: 2016-10-01
 publishDate: 2019-11-26T15:49:13.962541Z
 authors: ["Marc Scott", "Matthew Zeidenberg"]

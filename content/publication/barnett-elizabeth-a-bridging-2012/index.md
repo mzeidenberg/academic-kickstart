@@ -6,6 +6,6 @@ authors: ["Elizabeth A. Barnett", "Rachel Hare Bork", "Alexander Mayer", "Joshua
 publication_types: ["4"]
 abstract: "Developmental summer bridge programs are a popular strategy for increasing college readiness among recent high school graduates. Aimed at providing an alternative to traditional developmental education, these programs provide accelerated and focused learning opportunities in order to help students acquire the knowledge and skills needed for college success."
 featured: false
-publication: "National Center on Postsecondary Research"
+publication: "New York: National Center on Postsecondary Research, Teachers College, Columbia University"
 ---
 

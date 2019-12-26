@@ -6,7 +6,7 @@ authors: ["Matthew Zeidenberg"]
 publication_types: ["0"]
 abstract: ""
 featured: false
-publication: "American Association of Community Colleges Annual Conference"
+publication: "Presentation, American Association of Community Colleges Annual Conference"
 
 ---
 

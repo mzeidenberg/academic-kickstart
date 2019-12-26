@@ -1,5 +1,5 @@
 ---
-title: "What about the non-completers? The labor market returns to progress in community college"
+title: "What About the Non-Completers? The Labor Market Returns to Progress in Community College"
 date: 2015-12-01
 publishDate: 2019-11-27T12:59:55.436171Z
 authors: ["Matthew Zeidenberg", "Marc Scott", "Clive Belfield"]

@@ -6,6 +6,6 @@ authors: ["Michelle Van Noy", "Matthew Zeidenberg"]
 publication_types: ["4"]
 abstract: ""
 featured: false
-publication: "National Academy of Sciences, Board on Science Education"
+publication: "Washington, DC: National Academy of Sciences, Board on Science Education"
 ---
 
