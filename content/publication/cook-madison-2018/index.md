@@ -6,6 +6,6 @@ authors: ["Rachel Cook", "Jill Hamadyk", "Matthew Zeidenberg", "Howard Rolston",
 publication_types: ["4"]
 abstract: ""
 featured: false
-publication: "Administration for Children and Families, U.S. Department of Heath and Human Services"
+publication: "Administration for Children and Families, U.S. Department of Health and Human Services"
 ---
 

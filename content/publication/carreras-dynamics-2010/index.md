@@ -1,5 +1,5 @@
 ---
-title: "Dynamics of an economics model for generation coupled to the OPA power transmission model"
+title: "Dynamics of an Economics Model for Generation Coupled to the OPA Power Transmission Model"
 date: 2010-01-01
 publishDate: 2019-12-04T15:23:46.013765Z
 authors: ["B.A. Carreras", "D.E. Newman", "M. Zeidenberg", "I. Dobson"]

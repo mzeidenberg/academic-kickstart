@@ -1,5 +1,5 @@
 ---
-title: "The impact of risk-averse operation on the likelihood of extreme events in a simple model of infrastructure"
+title: "The Impact of Risk-Averse Operation on the Likelihood of Extreme Events in a Simple Model of Infrastructure"
 date: 2009-01-01
 publishDate: 2019-12-04T15:23:46.037860Z
 authors: ["B.A. Carreras", "D.E. Newman", "I. Dobson", "M. Zeidenberg"]

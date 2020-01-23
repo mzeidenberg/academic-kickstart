@@ -6,6 +6,6 @@ authors: ["David Fein", "Matthew Zeidenberg", "Yuhan Jao"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "Association for Public Policy and Management Fall Research Conference"
+publication: "Association for Public Policy Analysis and Management Fall Research Conference"
 ---
 
