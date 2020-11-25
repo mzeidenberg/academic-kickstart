@@ -75,12 +75,13 @@ neural networks.
 
 In my social science work, I focus on research and program evaluation in 
 workforce development and training, labor markets, income security, and 
-higher education. At Abt Associates, I am currently consulting on a study 
-for the U.S. Department of Labor that focuses on analyzing the 
+higher education. 
+
+At Abt Associates, I worked on a study 
+for the U.S. Department of Labor that focused on analyzing the 
 career trajectories of workers to see how these trajectories 
 can inform the design of career pathway programs. 
-
-At Abt, I worked on site impact studies for the Pathways for 
+I also worked on site impact studies for the Pathways for 
 Advancing Careers and Education (PACE) randomized controlled trial 
 (RCT) evaluation of career pathway programs for the U.S. Department 
 of Health and Human Services (HHS). I was on the analysis team 
