@@ -64,7 +64,7 @@ user_groups:
 Hi! Thanks for visiting my personal web site. 
 I live in Brooklyn, New York with my wife and daughter. I was born in New York City and grew up in 
 Teaneck, New Jersey. I am a scientist, scholar, teacher and writer whose career has focused on research 
-in the areas of labor, education, artificial intelligence, and machine learning. Currently I am
+in the areas of labor, education, artificial intelligence, and machine learning. Recently I was
 the lead instructor for Galvanize of a 13-week data science intensive course here in New York designed
 to train students for careers as data scientists.
 
