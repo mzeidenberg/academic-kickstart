@@ -63,8 +63,8 @@ user_groups:
 ---
 
 I am a Clinical Associate Professor of Computer Science at 
-New York University. In fall of 2021, I am teaching Introduction to Computer 
-Progamming (in Python) and co-teaching Data Managment and Analysis.
+New York University. In fall of 2021, I am teaching _Introduction to Computer 
+Progamming_ (in Python) and co-teaching _Data Managment and Analysis_.
 
 I am a teacher and scholar whose career has focused on research 
 in the areas of data science, artifical intelligence, machine learning, 
