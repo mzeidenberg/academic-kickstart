@@ -17,13 +17,14 @@ superuser: true
 bio: 
 
 interests:
+- Machine Learning
+- Artificial Intelligence
+- Information Retrieval
+- Computational Linguistics
+- Data Science
 - Education 
 - Workforce Development 
 - Social Experiments
-- Machine Learning
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
@@ -61,12 +62,14 @@ user_groups:
 - Visitors
 ---
 
-Hi! Thanks for visiting my personal web site. 
-I live in Brooklyn, New York with my wife and daughter. I was born in New York City and grew up in 
-Teaneck, New Jersey. I am a scientist, scholar, teacher and writer whose career has focused on research 
-in the areas of labor, education, artificial intelligence, and machine learning. Recently I was
-the lead instructor for Galvanize of a 13-week data science intensive course here in New York designed
-to train students for careers as data scientists.
+I am an Clinical Associate Professor of Computer Science at 
+New York University.
+
+I am a teacher and scholar whose career has focused on research 
+in the areas of data science, artifical intelligence, machine learning, 
+labor, education. In 2020, I was the lead instructor of a 13-week 
+data science intensive course 
+designed to train students for careers as data scientists.
 
 I am familiar with a wide range of statistical and machine learning algorithms, and I have extensive experience with large data sets, statistical analysis 
 including regression analysis and propensity score matching, cluster analysis,
