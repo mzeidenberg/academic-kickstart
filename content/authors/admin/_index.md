@@ -63,13 +63,13 @@ user_groups:
 ---
 
 I am a Clinical Associate Professor of Computer Science at 
-New York University. In fall of 2021, I am teaching _Introduction to Computer 
+New York University. In the fall of 2021, I am teaching _Introduction to Computer 
 Progamming_ (in Python) and co-teaching _Data Managment and Analysis_.
 
 I am a teacher and scholar whose career has focused on research 
 in the areas of data science, artifical intelligence, machine learning, 
-labor and education. In 2020, I was the lead instructor of a 13-week 
-data science intensive course 
+labor and education. In 2020, I was the lead instructor for a 
+three cohorts of a 13-week data science intensive course 
 designed to train students for careers as data scientists.
 
 I am familiar with a wide range of statistical and machine learning algorithms, and I have extensive experience with large data sets, statistical analysis 
