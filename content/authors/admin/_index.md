@@ -62,7 +62,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Clinical Associate Professor of Computer Science at 
+I am a Clinical Associate Professor of Computer Science at the Courant Institute of
 New York University. In the fall of 2021, I am teaching _Introduction to Computer 
 Progamming_ (in Python) and co-teaching _Data Managment and Analysis_.
 
