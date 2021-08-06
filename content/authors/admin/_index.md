@@ -68,7 +68,7 @@ Progamming_ (in Python) and co-teaching _Data Managment and Analysis_.
 
 I am a teacher and scholar whose career has focused on research 
 in the areas of data science, artifical intelligence, machine learning, 
-labor, education. In 2020, I was the lead instructor of a 13-week 
+labor and education. In 2020, I was the lead instructor of a 13-week 
 data science intensive course 
 designed to train students for careers as data scientists.
 
