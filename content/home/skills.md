@@ -27,7 +27,7 @@ subtitle = ""
   name = "Lisp"
   
 [[feature]]
-  name = "MySQL"
+  name = "SQL"
 
 [[feature]]
   name = "Perl"

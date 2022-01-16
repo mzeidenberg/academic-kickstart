@@ -18,12 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Clinical Associate Professor of Computer Science"
+  company = "New York Univerity"
+  company_url = "http://www.nyu.edu"
+  location = "New York, New York"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """Teaches courses in computer science, with an emphasis on Python, SQL, and data
+  science."""
+
+[[experience]]
+  title = "Principal Data Scientist, Lead Data Science Instructor" 
+  company = "Galvanize"
+  company_url = "http://www.galvanize.com"
+  location = "New York, New York"
+  date_start = "2020-04-01"
+  date_end = "2021-05-01"
+  description = """Led instruction for a 13-week full-time immersive program in data science covering the following topics: scientific Python, probability, statistics (Probability, A/B Testing, Bayesian methods, Regression methods, Time Series), SQL, Machine Learning (Decision Trees, Random Forests, Boosting, Support Vector Machines, Clustering, Natural Language Processing, Recommenders, Graphs), Data Engineering (Hadoop, Hive, and MapReduce), Data Visualization, and data at scale."""
+
+[[experience]]
   title = "Senior Scientist"
   company = "Abt Associates"
   company_url = "http://www.abtassociates.com"
   location = "New York, New York"
   date_start = "2014-01-01"
-  date_end = ""
+  date_end = "2020-03-31"
   description = """Worked on and/or led a variety of research and evaluation projects, mainly in the policy areas of education and the workforce. Applied advanced techniques from computer science and data science to these projects. Lead researcher on a project for the U.S.  Department of Labor that is applying machine learning and visualization to data from resumes and job postings in order to study career advancement and the relationship between labor supply and demand. Applied machine learning to the classification of responses to surveys. Principal investigator for a randomized controlled trial of the effectiveness of smartphone-based interventions at two large urban community colleges.  Analyzed data and wrote impact analyses for a two large multi-site evaluations of career pathway programs. Worked on a planning project for the Department of Labor on future directions for career pathways research. Served as the main designer and technical lead for a proposed Department of Labor experiment with the crowd-sourcing of occupational data using wiki technology. Co-author of reports for the U.S Departments of Labor, Health and Human Services, and Agriculture, and for the federal Corporation for National and Community Service."""
 
 [[experience]]
