@@ -63,10 +63,10 @@ user_groups:
 ---
 
 I am a Clinical Associate Professor of Computer Science at the Courant Institute of
-New York University. In the fall of 2021, I am teaching _Introduction to Computer 
-Progamming_ (in Python) and co-teaching _Data Managment and Analysis_.
+New York University. At NYU in the spring of 2022, I am teaching _Introduction to Computer 
+Progamming_ (in Python) and  _Data Managment and Analysis_.
 
-I am a teacher and scholar whose career has focused on research 
+I am a teacher and scholar whose career has focused on research  and teaching.
 in the areas of data science, artifical intelligence, machine learning, 
 labor and education. In 2020, I was the lead instructor for a 
 three cohorts of a 13-week data science intensive course 
@@ -77,7 +77,7 @@ including regression analysis and propensity score matching, cluster analysis,
 database systems, and text processing. I am the author of a book on 
 neural networks.
 
-In my social science work, I focus on research and program evaluation in 
+In my social science work, I have focussed on research and program evaluation in 
 workforce development and training, labor markets, income security, and 
 higher education. 
 
@@ -108,6 +108,5 @@ with administrative data on educational and labor market outcomes, as well
 as with survey data. I have also published peer-reviewed articles that apply 
 machine learning and data science to educational and labor market data.
 
-On the technical side, I have experience with a wide range of specialized and general purpose programming languages, including Python (and Scikit-Learn), R, Stata, SAS, Perl, and Lisp. I have strong knowledge of and experience with the design, conduct, and analysis of experiments.
+On the technical side, I have experience with a wide range of specialized and general purpose programming languages, including Python (and Scikit-Learn), SQL, R, Stata, SAS, Perl, and Lisp. I have strong knowledge of and experience with the design, conduct, and analysis of experiments.
 
-I have six years of experience teaching at the college level, having served for all of that time as the primary instructor for computer programming classes. I also taught an artificial intelligence class and assisted in a class on natural language processing. 
