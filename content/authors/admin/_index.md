@@ -66,7 +66,7 @@ I am a Clinical Associate Professor of Computer Science at the Courant Institute
 New York University. At NYU in the spring of 2022, I am teaching _Introduction to Computer 
 Progamming_ (in Python) and  _Data Managment and Analysis_.
 
-I am a teacher and scholar whose career has focused on research  and teaching.
+My career has been focused on research and teaching
 in the areas of data science, artifical intelligence, machine learning, 
 labor and education. In 2020, I was the lead instructor for a 
 three cohorts of a 13-week data science intensive course 
