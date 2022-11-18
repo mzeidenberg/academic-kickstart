@@ -24,8 +24,9 @@ date_format = "Jan 2006"
   location = "New York, New York"
   date_start = "2021-09-01"
   date_end = ""
-  description = """Teaches courses in computer science, with an emphasis on Python, SQL, and data
-  science."""
+  description = """Teaches courses in computer science, with an emphasis on Python, SQL, data
+  science, and artificial intelligence. Faculty director of NYU's Pathway's to AI program in the summers of
+  2022 and 2023."""
 
 [[experience]]
   title = "Principal Data Scientist, Lead Data Science Instructor" 
