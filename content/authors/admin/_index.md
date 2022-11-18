@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mzeidenberg@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mz3332@nyu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=h-mgZnwAAAAJ
@@ -63,7 +63,7 @@ user_groups:
 ---
 
 I am a Clinical Associate Professor of Computer Science at the Courant Institute of
-New York University. At NYU in the spring of 2022, I am teaching _Introduction to Computer 
+New York University. At NYU in the fall of 2022, I am teaching _Introduction to Computer 
 Programming_ (in Python) and  _Data Management and Analysis_.
 
 My career has been focused on research and teaching
