@@ -63,9 +63,9 @@ user_groups:
 ---
 
 I am a Clinical Associate Professor of Computer Science at the Courant Institute of
-New York University. At NYU in the fall of 2022, I am teaching _Introduction to Computer 
-Programming_ (in Python) and  _Data Management and Analysis_. In the spring of 2023,
-I will be teaching those two courses again, as well as the graduate-level _Database Systems_ course.
+New York University. At NYU, I teach _Introduction to Computer 
+Programming_ (in Python) and  _Data Management and Analysis_, both for undergraduates, and  
+the graduate-level _Database Systems_ course.
 I am also the faculty director for and an instructor in Courant's [Pathways to AI](https://cims.nyu.edu/ai/educational-programs/pathways-ai/) program, a summer program that introduces undergraduates to AI research. 
 
 My career has been focused on research and teaching
