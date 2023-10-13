@@ -211,6 +211,7 @@ plugins_js  = []
   [comments.disqus]
     shortname = ""  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
+    show_related = {docs = false, page = false, post = false, project = false, publication = false, talk = false}
 
 ############################
 ## Search
