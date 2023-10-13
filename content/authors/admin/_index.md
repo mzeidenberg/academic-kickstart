@@ -62,6 +62,8 @@ user_groups:
 - Visitors
 ---
 
+*Notice: Because my name and email is posted publicly on the NYU Computer Science website, I receive many unsolicited emails from students seeking to do research with me or become my TA. I regret that I do not have time to respond to such emails unless they are from someone I already know or have taught.*
+
 I am a Clinical Associate Professor of Computer Science at the Courant Institute of
 New York University. At NYU, I teach _Introduction to Computer 
 Programming_ (in Python) and  _Data Management and Analysis_, both for undergraduates, and  
